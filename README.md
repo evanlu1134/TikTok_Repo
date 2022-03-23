@@ -1,6 +1,8 @@
 # *TikTok_Repo*
 tiktok
 
+---------------------------------------------
+
 **List of Usage**
 
 1. Share out videos
